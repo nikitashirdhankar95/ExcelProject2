@@ -1,12 +1,14 @@
 "MY SYNTH DASHBOARD"
 
 Goal:
+
 To analyze and visualize global financial performance of the top 2000 companies by:
 •	Ranking companies based on Sales, Profits, Assets, and Market Value.
 •	Exploring regional distribution across continents and countries.
 •	Highlighting economic dominance by geography and sector indicators
 
 Skills Demonstrated:
+
 •	Data Cleaning & Structuring: Efficiently handled global financial metrics with geographical tagging (latitude, longitude).
 •	Data Aggregation & Analysis:
 o	Summarized KPIs (Sales, Profits, Assets, Market Value) by continent and country.
@@ -20,6 +22,7 @@ o	Created an engaging Excel dashboard using:
 •	Dashboard Design: Applied a futuristic “Synthwave” theme, with interactive slicers and icon-based navigation.
 
 Tools & Technologies Used:
+
 •	Microsoft Excel
 o	Pivot Tables & Pivot Charts
 o	Slicers & Filters
